@@ -1,0 +1,3 @@
+﻿  projectCurve.cpp
+C:\Users\User\source\repos\ForWork\projectCurve\projectCurve.cpp(52,23): warning C4018: <: несоответствие типов со знаком и без знака
+  projectCurve.vcxproj -> C:\Users\User\source\repos\ForWork\projectCurve\Debug\projectCurve.exe
